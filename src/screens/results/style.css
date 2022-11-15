@@ -42,3 +42,8 @@ nav {
   background-color: black;
   transition: 0.4s ease-out;
 }
+
+img:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
