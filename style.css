@@ -3,6 +3,31 @@
   border-radius: 100%;
 }
 
+.background {
+  background-image: url(/src/assets/Logotipo_SCE.png);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #171810;
+  color: #b68900;
+  margin: 0;
+  padding: 1px;
+}
+
+footer img {
+  border-radius: 50%;
+  width: 6%;
+}
+
 nav {
   background-color: #737373;
 }
@@ -18,6 +43,7 @@ nav {
   align-items: center;
   justify-content: center;
   padding: 50px;
+  color: black;
 }
 
 .etapa2 {

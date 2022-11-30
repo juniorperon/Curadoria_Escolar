@@ -7,6 +7,21 @@ nav {
   background-color: #737373;
 }
 
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #171810;
+  color: #b68900;
+  margin: 0;
+  padding: 1px;
+}
+
+footer img {
+  border-radius: 50%;
+  width: 6%;
+}
+
 .titulo {
   margin-top: 20px;
   margin-bottom: 20px;
