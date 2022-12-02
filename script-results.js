@@ -7,6 +7,5 @@ video.onclick = () => {
 };
 
 site.onclick = () => {
-  window.location.href =
-    "https://www.educabras.com/ensino_medio/materia/matematica";
+  window.location.href = "https://www.supletivourgente.com.br/";
 };
